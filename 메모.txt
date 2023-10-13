@@ -1,0 +1,5 @@
+sass --watch scss/main.scss css/style.css
+
+copyhunt / mycolor
+
+https://colorhunt.co/palette/d2e0fbf9f3ccd7e5ca8eaccd
